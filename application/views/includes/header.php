@@ -10,7 +10,7 @@
 	<link rel="stylesheet" type="text/css" href="<?echo base_url("assets/tbs-css/bootstrap.min.css");?>" />
 	<link rel="stylesheet" type="text/css" href="<?echo base_url("assets/tbs-css/bootstrap-responsive.min.css");?>" />
 	
-	<link rel="shortcut icon" type="image/png" href="img/lampara.png" />
+	<link rel="shortcut icon" type="image/ico" href="<?echo base_url("favicon.ico");?>" />
 	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 	<link rel="stylesheet" type="text/css" href="css/media-all.css" />
 	
