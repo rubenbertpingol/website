@@ -6,7 +6,7 @@
 			<li><a href="<?echo base_url("resume.php");?>">Resume</a></li>
 		</ul>
 		<ul class="menu menu-horizontal top pull-right">
-			<li><a href="https://plus.google.com/102271251501895438488/" rel="publisher">Contact Me</a></li>
+			<li><a href="https://plus.google.com/102271251501895438488/" target="_blank" rel="publisher">Contact Me</a></li>
 		</ul>
 	</div>
 </nav>
