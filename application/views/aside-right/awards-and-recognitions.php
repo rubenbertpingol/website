@@ -1,6 +1,6 @@
 <div class="pane-box border-box round-corner">
 	<div class="content-box">
-		<h3 class="">Awards and Recognitions</h3>
+		<h3 class="content-header">Awards and Recognitions</h3>
 		<div class="aside-services">
 			<ul class="menu-vertical menu archives-menu accordion">
 				<li class="accordion-heading">

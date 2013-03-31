@@ -49,6 +49,8 @@
 				?>
 			<?}?>
 			
+			<div class="whitespace-divider"></div>
+			
 			<?if(!$this->pageRequest){?>
   		<section class="content">
   			<div class="wrapper">

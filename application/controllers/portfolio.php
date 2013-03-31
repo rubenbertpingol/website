@@ -23,7 +23,7 @@ class Portfolio extends CI_Controller
 		$data = array(
 			"isMenu"						=>	$this->isMenu_block = true,
 			"isIncludeAuthor"		=>	$this->isAuthor	= true,
-			"isIncludeFeatured"	=>	$this->isFeatured	= true,
+			"isIncludeFeatured"	=>	$this->isFeatured	,
 			"isRight"						=>	$this->isRightPane = true,
 			"isFoot"						=>	$this->isFooter = true,
 			"articles"					=>	array("portfolio"),

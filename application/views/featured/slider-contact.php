@@ -14,7 +14,7 @@
 						<span><strong>Address:</strong> Brgy. 59-A 1st Street Sampaguita, Tacloban City</span>
 						<span><strong>Contact number:</strong> +639128465460</span>
 					</address>
-						<button class="btn btn-success">Hire me now</button>
+						<button class="btn btn-success">Contact me now!</button>
 				</div>
 			</aside>
 		</div>

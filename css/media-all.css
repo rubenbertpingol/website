@@ -106,7 +106,7 @@ body {
 						}
 	
 	.featured-box {
-			margin: 20px 0;
+			margin: 20px 0 0;
 			height: 330px;
 			padding: 20px;
 			border-radius: 8px;
@@ -227,7 +227,7 @@ body {
 						text-indent: 40px;
 						text-align: justify;
 					}
-				.content-box h3 {
+				.content-box h3.content-header {
 						margin: 0; padding: 9px 10px;
 						color: #444;
 						text-shadow: 0 1px 1px #fff;
@@ -244,9 +244,21 @@ body {
 					.mission-vision {
 						color: #222;
 					}
-					.mission-vision h1 {
+					.mission-vision h1, .mission-vision h2, .mission-vision h3 {
 							margin: 0;
 							font-family: trebuchet ms;
+						}
+					.mission-vision h2 {
+						line-height: 30px;
+					}
+					.mission-vision h3 {
+						background: url("../img/divider.png");
+						background-position: center left;
+						background-repeat: repeat-x;
+					}
+						.mission-vision h3 > span {
+							padding: 4px;
+							background-color: #fff;
 						}
 					.mission-vision p {
 							color: #333;
