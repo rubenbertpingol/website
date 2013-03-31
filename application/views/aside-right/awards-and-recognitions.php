@@ -53,7 +53,7 @@
 							
 							<h4 style="margin: 0;padding: 0;line-height: 16px;font-size: 15px;">Certficate of Appreciation</h4>
 							<div>
-								as Resource Speaker during the Seminar PHP and jQuery<br>Northern Samar Colleges<br>October 24, 2012
+								as Resource Speaker during the Seminar on PHP and jQuery<br>Northern Samar Colleges<br>October 24, 2012
 							</div>
 							<br>
 							<h4 style="margin: 0;padding: 0;line-height: 16px;font-size: 15px;">Certficate of Appreciation</h4>
