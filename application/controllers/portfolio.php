@@ -26,8 +26,8 @@ class Portfolio extends CI_Controller
 			"isIncludeFeatured"	=>	$this->isFeatured	= true,
 			"isRight"						=>	$this->isRightPane = true,
 			"isFoot"						=>	$this->isFooter = true,
-			"articles"					=>	array("biography"),
-			"rightpanes"				=>	array("services-offered", "awards-and-recognitions")
+			"articles"					=>	array("portfolio"),
+			"rightpanes"				=>	array("awards-and-recognitions", "services-offered")
 		);
 		
 		$this->data_ = $data;

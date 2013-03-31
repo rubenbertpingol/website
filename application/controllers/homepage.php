@@ -27,7 +27,7 @@ class Homepage extends CI_Controller
 			"isRight"						=>	$this->isRightPane = true,
 			"isFoot"						=>	$this->isFooter = true,
 			"articles"					=>	array("biography"),
-			"rightpanes"				=>	array("services-offered", "awards-and-recognitions")
+			"rightpanes"				=>	array("awards-and-recognitions", "services-offered")
 		);
 		
 		$this->data_ = $data;

@@ -128,6 +128,18 @@
 			<?}?>
 			
 			<?if(!$this->pageRequest){?>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-transition.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-alert.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-modal.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-dropdown.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-scrollspy.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-tab.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-tooltip.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-popover.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-button.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-collapse.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-carousel.js");?>"></script>
+			<script src="<?echo base_url("assets/tbs-js/bootstrap-typeahead.js");?>"></script>
     </body>
 </html>
 <?}?>
