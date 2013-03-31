@@ -34,6 +34,9 @@
 					}
 				?>
 			<?}?>
+			
+  		<div class="clearfix"></div>
+			
 			<!--/
 				Featured items and photo slider
 				/-->
