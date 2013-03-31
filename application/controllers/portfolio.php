@@ -1,6 +1,6 @@
 <?if( ! defined('BASEPATH') ) EXIT('No direct script access allowed!');
 
-class Homepage extends CI_Controller
+class Portfolio extends CI_Controller
 {
 	public $myClass;
 	public $data_;
